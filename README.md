@@ -1,21 +1,24 @@
 # Staff Security Engineer Notes
 
-### Contents
+### Introduction Contents
 - [README](README.md)
-- [Learning tips](#learning-tips)
-- [Interviewing tips](#interviewing-tips)
-- [Web Applications](#web-application-security)
-- [Operating Systems](#operating-systems)
+- [Learning](#learning-tips)
+- [Interviewing](#interviewing-tips)
+
+### Contents
+- [Containers](#containers)
 - [Continuous Integration and Continuous Deploy](#continuous-integration-and-continuous-deploy)
-- [Networking](#networking)
 - [Cryptography](#cryptography)
-- [Incident Response](#incident-response)
 - [Digital Forensics](#digital-forensics)
-- [Security Architecture](#security-architecture)
+- [Incident Response](#incident-response)
 - [Management](#management)
-- [Technical Leadership](#technical-leadership)
-- [Secure Software Development Lifecycle](#secure-software-development-lifecycle)
 - [Mobile Devices](#mobile-devices)
+- [Networking](#networking)
+- [Operating Systems](#operating-systems)
+- [Secure Software Development Lifecycle](#secure-software-development-lifecycle)
+- [Security Architecture](#security-architecture)
+- [Technical Leadership](#technical-leadership)
+- [Web Applications](#web-application-security)
 
 # Learning tips 
 
@@ -122,5 +125,38 @@
 	- Practice speaking aloud everything you know about a topic, even details you think might be irrelevant. 
 	- Doooo theeeeemmm yes they can be annoying to organise but it is *worth it*.
 
-### Interviewers are potential friends and they want to help you get the job, they are on your side. Let them help you, ask them questions, recite everything you know on a topic and *say your thought process out loud*.
+### Interviewers are potential friends and they want to help you get the job, they are on your side. Let them help you, ask them questions, recite everything you know on a topic and *say your thought process out loud*.'
 
+# Containers
+
+# Continuous Integration and Continuous Deploy
+
+# Cryptography
+
+# Digital Forensics
+
+# Incident Response
+**Reading List:**
+- [Incident Response in the Age of Cloud](https://learning.oreilly.com/library/view/incident-response-in/9781800569218/)
+- [Applied Incident Response](https://learning.oreilly.com/library/view/applied-incident-response/9781119560265/)
+- [Intelligence-Driven Incident Response](https://learning.oreilly.com/library/view/intelligence-driven-incident-response/9781491935187/)
+
+# Management
+
+# Mobile Devices
+
+# Networking
+
+# Operating Systems
+
+# Secure Software Development Lifecycle
+**Reading List:**
+- [Secure by Design](https://learning.oreilly.com/library/view/secure-by-design/9781617294358/)
+
+# Security Architecture
+**Reading List:**
+- [Microservices Security in Action](https://learning.oreilly.com/library/view/microservices-security-in/9781617295959/)
+
+# Tehcnical Leadership
+
+# Web Applications
