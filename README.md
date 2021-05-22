@@ -1,20 +1,23 @@
 # Staff Security Engineer Notes
 
-### Introduction Contents
+### Introduction
 - [README](README.md)
 - [Learning](#learning-tips)
 - [Interviewing](#interviewing-tips)
 
 ### Contents
+- [Algorithims and Data Structures](#algorithims-and-data-structures)
 - [Containers](#containers)
 - [Continuous Integration and Continuous Deploy](#continuous-integration-and-continuous-deploy)
 - [Cryptography](#cryptography)
+- [Databases](#databases)
 - [Digital Forensics](#digital-forensics)
 - [Incident Response](#incident-response)
 - [Management](#management)
 - [Mobile Devices](#mobile-devices)
 - [Networking](#networking)
 - [Operating Systems](#operating-systems)
+- [Programming](#programming)
 - [Secure Software Development Lifecycle](#secure-software-development-lifecycle)
 - [Security Architecture](#security-architecture)
 - [Technical Leadership](#technical-leadership)
@@ -127,13 +130,25 @@
 
 ### Interviewers are potential friends and they want to help you get the job, they are on your side. Let them help you, ask them questions, recite everything you know on a topic and *say your thought process out loud*.'
 
+# Algorithims and Data Structures
+**Reading List:**
+- [Data Structures and Algorithms in Python](https://learning.oreilly.com/library/view/data-structures-and/9781118290279/)
+
 # Containers
+**Reading List:**
+- [Container Security](https://learning.oreilly.com/library/view/container-security/9781492056690/)
 
 # Continuous Integration and Continuous Deploy
+**Reading List:**
 
 # Cryptography
+**Reading List:**
+
+# Databases
+**Reading List:**
 
 # Digital Forensics
+**Reading List:**
 
 # Incident Response
 **Reading List:**
@@ -142,12 +157,33 @@
 - [Intelligence-Driven Incident Response](https://learning.oreilly.com/library/view/intelligence-driven-incident-response/9781491935187/)
 
 # Management
+**Reading List:**
 
 # Mobile Devices
+**Reading List:**
 
 # Networking
+**Reading List:**
 
 # Operating Systems
+**Reading List:**
+
+# Programming
+
+## General
+**Reading List:**
+- [Structure and Interpretation of Computer Programs]()
+- [Structure and Interpretation of Computer Programs: Python](https://composingprograms.com/)
+
+## Python
+**Reading List:**
+- [Clean Code in Python](https://learning.oreilly.com/library/view/clean-code-in/9781800560215/)
+
+## Golang
+**Reading List:**
+
+## Rust
+**Reading List:**
 
 # Secure Software Development Lifecycle
 **Reading List:**
@@ -156,7 +192,11 @@
 # Security Architecture
 **Reading List:**
 - [Microservices Security in Action](https://learning.oreilly.com/library/view/microservices-security-in/9781617295959/)
+- [Zero Trust Networks](https://learning.oreilly.com/library/view/zero-trust-networks/9781491962183/)
+- [Google Beyond Corp](https://cloud.google.com/beyondcorp)
 
 # Tehcnical Leadership
+**Reading List:**
 
 # Web Applications
+**Reading List:**
