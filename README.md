@@ -4,9 +4,6 @@
 - [README](README.md)
 - [Learning tips](#learning-tips)
 - [Interviewing tips](#interviewing-tips)
-
-
-### Subjects
 - [Web Applications](#web-application-security)
 - [Operating Systems](#operating-systems)
 - [Continuous Integration and Continuous Deploy](#continuous-integration-and-continuous-deploy)
@@ -16,6 +13,9 @@
 - [Digital Forensics](#digital-forensics)
 - [Security Architecture](#security-architecture)
 - [Management](#management)
+- [Technical Leadership](#technical-leadership)
+- [Secure Software Development Lifecycle](#secure-software-development-lifecycle)
+- [Mobile Devices](#mobile-devices)
 
 # Learning tips 
 
