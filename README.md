@@ -1,9 +1,21 @@
-# learning
+# Staff Security Engineer Notes
 
 ### Contents
 - [README](README.md)
 - [Learning tips](#learning-tips)
 - [Interviewing tips](#interviewing-tips)
+
+
+### Subjects
+- [Web Applications](#web-application-security)
+- [Operating Systems](#operating-systems)
+- [Continuous Integration and Continuous Deploy](#continuous-integration-and-continuous-deploy)
+- [Networking](#networking)
+- [Cryptography](#cryptography)
+- [Incident Response](#incident-response)
+- [Digital Forensics](#digital-forensics)
+- [Security Architecture](#security-architecture)
+- [Management](#management)
 
 # Learning tips 
 
