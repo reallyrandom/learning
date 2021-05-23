@@ -150,6 +150,10 @@
 # Digital Forensics
 **Reading List:**
 
+# Distributed Systems
+**Reading List:**
+- [Designing Data-Intensive Application](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D/?pldnSite=1)
+
 # Incident Response
 **Reading List:**
 - [Incident Response in the Age of Cloud](https://learning.oreilly.com/library/view/incident-response-in/9781800569218/)
